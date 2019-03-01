@@ -1,0 +1,6 @@
+
+const validatorSchema = {
+  "referrer": {
+
+  }
+}
